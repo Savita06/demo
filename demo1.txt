@@ -1,0 +1,15 @@
+hiii i m saavi
+1.git init  -- To initialise git 
+2 git remote add origin <git_path>   -- To add folder or code to created repository 
+3 git status     -- To check the status of the files 
+4 git add .      -- To add code on git 
+5 git commit -m "commit_message" -n    -- To commit lastest changes on git 
+6 git push -u origin master    -- To push code at the first time only 
+7 git push       -- To push code at the second time 
+8 
+ 
+9 For authentication :-- 
+10 
+ 
+11 git config --global user.email "EmailID" 
+12 git config --global user.name "username" 
